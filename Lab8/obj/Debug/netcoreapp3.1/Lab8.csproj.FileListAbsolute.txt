@@ -10,7 +10,6 @@ D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\bin\Debug\netcore
 D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
 D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
 D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CopyComplete
 D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
 D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
 D:\Yagnik\CPIN\Semester_3\IOT 1030 OOP II\Labs\GithubLab8\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache
